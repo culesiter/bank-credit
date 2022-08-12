@@ -1,0 +1,30 @@
+{
+  "landing": {
+    "account": "Tài khoản",
+    "password": "Mật khẩu",
+    "invalidAccount": "Tài khoản không hợp lệ",
+    "invalidPassword": "Mật khẩu không hợp lệ",
+    "confirm": "Xác nhận",
+    "login": "Đăng nhập",
+    "loginFail": "Đăng nhập thất bại",
+    "phoneNumber": "Số điện thoại",
+    "processing": "Đang xử lý ...",
+    "invalidEmail": "Vui lòng điền đúng email để nhận thông báo xác nhận đặt lịch hẹn",
+    "invalidPhone": "Số điện thoại không hợp lệ",
+    "fullname": "Họ và tên",
+    "invalidFullname": "Tên không hợp lệ",
+    "invalidDate": "Vui lòng chọn ngày hẹn",
+    "invalidTime": "Vui lòng chọn giờ hẹn",
+    "captcha": "Vui lòng xác nhận captcha"
+  },
+  "home": {
+    "test": "131231"
+  },
+  "footer": {
+    "title": "Ten trang web"
+  },
+  "header": {
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất"
+  }
+}

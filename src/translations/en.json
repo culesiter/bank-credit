@@ -1,0 +1,30 @@
+{
+  "landing": {
+    "account": "Account",
+    "password": "Password",
+    "invalidAccount": "Account is not valid",
+    "invalidPassword": "Password is not valid",
+    "confirm": "Confirm",
+    "login": "Sign in",
+    "loginFail": "Login failed",
+    "phoneNumber": "Phone number",
+    "processing": "Processing ...",
+    "invalidEmail": "Email is not valid",
+    "invalidPhone": "Phone number is not valid",
+    "fullname": "Full name",
+    "invalidFullname": "Your name is not valid",
+    "invalidDate": "Please choose a date",
+    "invalidTime": "Please choose a timeline",
+    "captcha": "Please confirm captcha"
+  },
+  "home": {
+    "test": "test"
+  },
+  "footer": {
+    "title": "WEBNAME"
+  },
+  "header": {
+    "login": "Login",
+    "logout": "Logout"
+  }
+}
